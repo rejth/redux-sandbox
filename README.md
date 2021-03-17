@@ -1,4 +1,4 @@
 # Redux Sandbox
 
-Простая песочница для изучения возможностей React + Redux
+Simple sandbox for React + Redux learning purpose
 
